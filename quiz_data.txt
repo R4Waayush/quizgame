@@ -1,0 +1,5 @@
+What is the capital of India?;Paris;Berlin;Madrid;Rome;1
+Which language is used for web development?;Python;Java;HTML;C++;3
+Which language is used for AI development?;Python;Java;HTML;C;1
+What does "debugging" refer to in programming?; Writing code;Testing code;Fixing errors; documentation;3
+Which of the following is NOT a high-level programming language?;c++;Python;java;assembly language;4
